@@ -29,7 +29,7 @@ html{
     navegador que es una base 16px y la pasaremos a una base 10px ya que sera mas facil
     calcular el numero de la 16px*62.5% = 10px*/
     font-size: 62.5%;
-     /* aqui solo pondemos nuestra fuente base, y la otra fuente la usaremos solo en 
+     /* aqui solo podemos mostrar nuestra fuente base, y la otra fuente la usaremos solo en 
     ciertos elementos especificos*/
     font-family: 'DM Sans', sans-serif;
 }
@@ -123,13 +123,11 @@ header figure img{
     margin-left: 10px;
     background-image: url("./assets/icons/down-arrow.svg");
 }
-header main {
+main {
     width: 100%;
-    height: 18px;
-    margin-top: 25px;
-    margin-bottom: auto;
-    background-color: var(--off-white);
-
+    height: 35px;
+    top: 15px;
+    padding: 0;
 }
 .main-exchange-conteiner{
     width: 100%;
@@ -177,7 +175,7 @@ header main {
     max-width: 360px;
     height: 360px;
     margin: 0 auto;
-    font-family: "inter", sans-serif ;
+    font-family: "inter", sans-serif;
 }
 .main-currency-table .currency-table-title {
     margin-bottom: 15px;
@@ -260,3 +258,80 @@ header main {
     line-height: 1.5rem;
     color: var(--warm-black);
 }
+.table-two{ 
+    width: 70%;
+    min-width: 235px;
+    max-width: 350px;
+    height: 250px;
+    margin: 0 auto;
+    font-family: "inter", sans-serif;
+    position: relative;
+    display: unset;
+}
+.table-two p{
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: bold;
+    line-height: 2.3rem;
+    color: var(--secondary-blue);
+    margin: 1.5rem;
+}
+.table-two table{
+    width: 100%;
+    height: 90%;
+}
+.table-two td{
+    width: 50%;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.9rem;
+    color: var(--grey);
+    background-color: var(--just-white);
+}
+.table-two .table-two-left{
+    border-radius: 15px 0 0;
+}
+.table-two .two-right{
+    border-radius: 0 15px 0 0;
+}
+.table-two .table-top-left{
+    border-radius:  0 0 15px;
+}
+.table-two .two-right{
+    border-radius: 0 0 15px 0;
+}
+.two-right{
+    font-size: 1.4rem;
+    font-weight: normal;
+    line-height: 1.7rem;
+    color: #757575;
+    margin: 0;
+    list-style: none;
+}
+div .table-two-date{
+    width: 190px;
+    height: 35px;
+    margin: 1rem auto;
+    margin-top: 15px;
+    padding: 9px;
+    background-color: #E7F5FF;
+    border-radius: 8px;
+}
+div .table-two-date p{
+    font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.5rem;
+    color: var(--warm-black);
+}
+.main-product-detail {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: auto;
+    padding: 50px 16px;
+    background-color: var(--warm-black);
+
+}
+
+

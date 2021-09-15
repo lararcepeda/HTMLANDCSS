@@ -1,0 +1,29 @@
+-var titulo = "Subtítulo Principal"
+-var titulos = ["Título Principal", "Subtitulo 1", "Subtitulo 2", "Subtitulo 3"]
+-var usuario = "Lara"
+doctype html 
+html 
+    head 
+        meta(charset="utf-8")
+        link(rel="stylesheet", href="./ejercicio-pug.css")
+    body 
+            header 
+                h1 Decoración
+                if usuario 
+                    a hola #{usuario}
+                else 
+                    a.boton Registro 
+                a.boton Registro 
+            section.intro 
+                .intro_imagen: imag(src="./sillon1.jpg")
+                .intro_contenido
+                h2 #{titulos[0][1]}  Sillones
+                p ¿Queres arreglar ese sillon desgastado? Nosotros te podemos ayudar, traelo charlamos un rato acerca de como te gustaria que quede.
+                span Cualquier cosa los datos estan en la seccion de informacion
+            ul 
+                each titulo in titulos 
+                  li=titulos
+            
+
+                
+                

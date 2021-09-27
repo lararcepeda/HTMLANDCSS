@@ -5,70 +5,75 @@
 4. Visuales: boz-shadow, border-radius, gradiente, etc
 5. Otros: reglas CSS y más
 */
-:root{
+:root {
     /*Colores, vamos a poner los colores en una variables, para ya tenerlas a todas
     sin necesidad de estar consultando a la aplicacion nuevemanete*/
     --bitcoin-organge: #f7931a;
     --soft-orange: #ffe9d5;
-    --secondary-blue: #1a9af7
-    --soft-blue: ##e7f5ff;
+    --secondary-blue: #1a9af7 --soft-blue: ##e7f5ff;
     --warm-black: #201e1c;
     --black: #282623;
     --grey: #bababa;
     --off-white: #faf8f7;
     --just-white: #fff;
 }
-*{
+
+* {
     /* Quitaremos todas las propiedas que vienen por defecto */
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-html{
+
+html {
     /* esto para poder hacer el uso de rem, cambiando la base que tiene por defecto el 
     navegador que es una base 16px y la pasaremos a una base 10px ya que sera mas facil
     calcular el numero de la 16px*62.5% = 10px*/
     font-size: 62.5%;
-     /* aqui solo podemos mostrar nuestra fuente base, y la otra fuente la usaremos solo en 
+    /* aqui solo podemos mostrar nuestra fuente base, y la otra fuente la usaremos solo en 
     ciertos elementos especificos*/
     font-family: 'DM Sans', sans-serif;
 }
-header{
+
+header {
     /*Por que usa position relative: Lo usa para que nos sea mas fácil posicionar elementos de forma relativa. En este 
     caso, nos sirve mucho tener al header con position relative para poder ajustar el enlace de “Conoce nuestros planes” 
     de forma que quede “sobresaliendo” del header. Si le damos a nuestro enlace un position absolute lo podríamos 
     posicionar de forma relativa al elemento mas cercano que tenga algún tipo de position, en este caso, el header 
     (con position relative) */
-    position: absolute;
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    height: 230px;
+    height: 234px;
     margin-bottom: 25px;
     text-align: center;
     align-items: center;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 
 }
-header figure img{
-    width: 150px;
+
+header figure img {
+    width: 151px;
     height: 24px;
-    margin-top: 120px;
+    margin-top: 60px;
     /*La manera de alinear algo en el centro que tenga un display flex
     es agarrar y colocar un align-self para que se pueda mover al centro*/
     align-self: center;
 }
-.header-tittle-container{
+
+.header-tittle-container {
     width: 90%;
-    min-width: 248px;
-    max-width: 922px;
-    height: 18px;
-    margin-top: 0;
+    min-width: 288px;
+    max-width: 900px;
+    height: 218px;
+    margin-top: 50px;
     text-align: center;
     align-self: center;
 }
-.header-tittle-container h1{
+
+.header-tittle-container h1 {
     /*La propiedad font-weight define cuan negrita está el texto y hay 
     muchos valores posibles; normal (normal), audaz (bold), más atrevido
     (bolder), más ligero (lighter), 100, 200, 300, 400, 500, 600, 700, 
@@ -86,19 +91,20 @@ header figure img{
     color: var(--just-white);
 
 }
-.header-title-container p{
+
+.header-title-container p {
     margin-top: 25px;
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
     color: var(--soft-orange);
 }
-.header-title-container .header-button{
-    position: center;
-    left: calc(50%-11px);
+
+.header-title-container .header-button {
+    position: absolute;
+    left: calc(50%-118px);
     top: 270px;
-    display: inline-flex;
-    justify-content: center;
+    display: block;
     margin-top: 35px;
     padding: 15px;
     width: 229px;
@@ -110,83 +116,92 @@ header figure img{
     /*La propiedad border-radius redondea las esquinas del borde del 
     borde exterior de un elemento. Puede establecer un solo radio para 
     hacer esquinas circulares o dos radios para hacer esquinas elípticas.border-radius */
-    border-radius: 5px;
+    border-radius: 4px;
     font-size: 1.4rem;
     font-weight: bold;
     text-decoration: none;
     color: var(--black);
 }
-.header-button span{
+
+.header-button span {
     display: inline-block;
     width: 13px;
     height: 8px;
     margin-left: 10px;
     background-image: url("./assets/icons/down-arrow.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 main {
     width: 100%;
     height: auto;
-    top: 15px;
     padding: 0;
-    background-color: var(--just-white);
+    background-color: var(--off-white);
 }
-.main-exchange-conteiner{
+
+.main-exchange-conteiner {
     width: 100%;
     height: auto;
     padding-top: 80px;
     padding-bottom: 30px;
     text-align: center;
-
-
 }
-.header-title-container{
+
+.header-title-container {
     width: 90%;
     min-width: 288px;
     max-width: 900px;
     margin: 0 auto;
 }
-.main-exchange-container .backgroundimg{
-    width: 300px;
-    height: 300px;
+
+.main-exchange-container .backgroundimg {
+    width: 200px;
+    height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url("./assets/img/Bitcoin.svg");
+    background-image: url("../assets/img/Bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
 }
-.main-exchange-container h2{
+
+.main-exchange-container h2 {
     margin-bottom: 30px;
     font-size: 2.4rem;
     font-weight: bold;
     line-height: 2.6rem;
     color: var(--black);
 }
-.main-exchange-container p{
+
+.main-exchange-container p {
     margin-bottom: 30px;
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.6rem;
     color: #757575;
 }
-.main-currency-table{
+
+.main-currency-table {
     width: 70%;
     min-width: 235px;
-    max-width: 360px;
+    max-width: 500px;
     height: 360px;
     margin: 0 auto;
     font-family: "inter", sans-serif;
 }
+
 .main-currency-table .currency-table-title {
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
-    line-height: bold;
     line-height: 2.3rem;
-    color: var(--bitcoin-organge);
+    color: var(--bitcoin-orange);
 }
-.currency-table-container{
+
+.currency-table-container {
     width: 90%;
     min-width: 230px;
     max-width: 300px;
@@ -194,11 +209,13 @@ main {
     margin: 0 auto;
 
 }
-.currency-table-container table{
+
+.currency-table-container table {
     width: 100%;
     height: 100%;
 }
-.currency-table-container td{
+
+.currency-table-container td {
     width: 50%;
     font-size: 1.6rem;
     font-weight: 500;
@@ -206,25 +223,31 @@ main {
     color: var(--grey);
     background-color: var(--just-white);
 }
-.currency-table-container .table-top-left{
+
+.currency-table-container .table-top-left {
     border-radius: 15px 0 0;
 }
-.currency-table-container .table-top-right{
+
+.currency-table-container .table-top-right {
     border-radius: 0 15px 0 0;
 }
-.currency-table-container .table-bottom-left{
-    border-radius:  0 0 15px;
+
+.currency-table-container .table-bottom-left {
+    border-radius: 0 0 15px;
 }
-.currency-table-container .table-bottom-right{
+
+.currency-table-container .table-bottom-right {
     border-radius: 0 0 15px 0;
 }
-.table-right{
+
+.table-right {
     font-size: 1.4rem;
     font-weight: normal;
     line-height: 1.7rem;
     color: #757575;
 }
- .currency-table-container .down {
+
+.currency-table-container .down {
     display: inline-block;
     width: 15px;
     height: 15px;
@@ -234,6 +257,7 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+
 .currency-table-container .up {
     display: inline-block;
     width: 15px;
@@ -244,7 +268,8 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
-.currency-table-date{
+
+.currency-table-date {
     width: 190px;
     height: 30px;
     margin: 0 auto;
@@ -253,13 +278,15 @@ main {
     background-color: var(--soft-orange);
     border-radius: 8px;
 }
-.currency-table-date p{
+
+.currency-table-date p {
     font-size: 1.2rem;
     font-weight: 300;
     line-height: 1.5rem;
     color: var(--warm-black);
 }
-.table-two{ 
+
+.table-two {
     width: 70%;
     min-width: 235px;
     max-width: 350px;
@@ -269,7 +296,8 @@ main {
     position: relative;
     display: unset;
 }
-.table-two p{
+
+.table-two p {
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
@@ -278,11 +306,13 @@ main {
     color: var(--secondary-blue);
     margin: 1.5rem;
 }
-.table-two table{
+
+.table-two table {
     width: 100%;
     height: 90%;
 }
-.table-two td{
+
+.table-two td {
     width: 50%;
     font-size: 1.6rem;
     font-weight: 500;
@@ -290,19 +320,24 @@ main {
     color: var(--grey);
     background-color: var(--just-white);
 }
-.table-two .table-two-left{
+
+.table-two .table-two-left {
     border-radius: 15px 0 0;
 }
-.table-two .two-right{
+
+.table-two .two-right {
     border-radius: 0 15px 0 0;
 }
-.table-two .table-top-left{
-    border-radius:  0 0 15px;
+
+.table-two .table-top-left {
+    border-radius: 0 0 15px;
 }
-.table-two .two-right{
+
+.table-two .two-right {
     border-radius: 0 0 15px 0;
 }
-.two-right{
+
+.two-right {
     font-size: 1.4rem;
     font-weight: normal;
     line-height: 1.7rem;
@@ -310,7 +345,8 @@ main {
     margin: 0;
     list-style: none;
 }
-div .table-two-date{
+
+div .table-two-date {
     width: 190px;
     height: 35px;
     margin: 1rem auto;
@@ -319,12 +355,14 @@ div .table-two-date{
     background-color: #E7F5FF;
     border-radius: 8px;
 }
-div .table-two-date p{
+
+div .table-two-date p {
     font-size: 1.2rem;
     font-weight: 300;
     line-height: 1.5rem;
     color: var(--warm-black);
 }
+
 .main-product-detail {
     position: relative;
     width: 100%;
@@ -334,5 +372,3 @@ div .table-two-date p{
     background-color: var(--warm-black);
 
 }
-
-

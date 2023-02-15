@@ -23,7 +23,7 @@ Las** webs dinámicas** son páginas en las que su contenido es fácilmente y fr
 
 A grandes rasgos, estos son los elementos que habitualmente forman la cabecera de una web. Algunos de estos son opcionales, pero otros son obligatorios: Elementos de tu identidad corporativa. Estos son el logo, el eslogan y el nombre de la empresa. Un menú. Gracias a este, el usuario podrá navegar por la web para encontrar lo que busca. Aquí deberán estar todas las secciones de la web. Iconos de las redes sociales. Aquellas donde tengas presencia. Algunas marcas ponen estos botones en el footer. Información de contacto. Puede ser un icono de teléfono o correo electrónico. Un buscador. A través de este el usuario puede introducir una palabra clave o relacionada a tu negocio para encontrar rápidamente algo en tu web.
 
-•	**El elemento HTML ** *< main > representa el contenido principal del < body > de un documento o aplicación. *
+•	**El elemento HTML ** < main > representa el contenido principal del < body > de un documento o aplicación. 
 El área principal del contenido consiste en el contenido que está directamente relacionado, o se expande sobre el tema central de un documento o la funcionalidad central de una aplicación. Este contenido debe ser único al documento, excluyendo cualquier contenido que se repita a través de un conjunto de documentos como barras laterales, enlaces de navegación, información de derechos de autor, logos del sitio y formularios de búsqueda (a menos, claro, que la función principal del documento sea un formulario de búsqueda).
 
 •	**El elemento HTML** < aside > representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento. Estas secciones son a menudo representadas como barras laterales o como inserciones y contienen una explicación al margen como una definición de glosario, elementos relacionados indirectamente, como publicidad, la biografía del autor, o en aplicaciones web, la información de perfil o enlaces a blogs relacionados.
@@ -32,7 +32,7 @@ El área principal del contenido consiste en el contenido que está directamente
 
 **INDEX Y SU ESTRUCTURA BÁSICA**
 
-Cada página comienza con: < HTML > .
+Cada página comienza con: < HTML >
 El nombre INDEX se debe que es el comienzo, o la pagina inicial en la que ingresa el usuario. 
 A continuación viene la cabecera, delimitada por < HEAD > y < /HEAD > .
 Después, el comando < BODY >, que indica el comienzo del cuerpo de la página. Las instrucciones HTML se escribirán a continuación, y finalizarán con < /BODY >.

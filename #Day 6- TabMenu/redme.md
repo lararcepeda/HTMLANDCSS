@@ -320,12 +320,12 @@ tabBtns.forEach((tabBtn, i) => {
 });
 ```
 
-Primero, el código define tres constantes utilizando la función querySelector de JavaScript para seleccionar elementos HTML específicos en la página. Uno de estos elementos es la lista de pestañas que se desplazará, y los otros dos son los botones "izquierda" y "derecha" que se utilizan para desplazarse por la lista.
+Primero, el código define tres constantes utilizando la función *querySelector* de JavaScript para seleccionar elementos HTML específicos en la página. Uno de estos elementos es la lista de pestañas que se desplazará, y los otros dos son los botones *"izquierda"* y *"derecha"* que se utilizan para desplazarse por la lista.
 
-Luego, se define una función llamada InconVisibility, que se utiliza para determinar si los botones de desplazamiento deben estar visibles en función de la posición actual de la lista. La función establece la propiedad display de los botones en "block" o "none" dependiendo de si es posible desplazarse más a la izquierda o la derecha de la lista.
+Luego, se define una función llamada *InconVisibility*, que se utiliza para determinar si los botones de desplazamiento deben estar visibles en función de la posición actual de la lista. La función establece la *propiedad display* de los botones en *"block"* o *"none"* dependiendo de si es posible desplazarse más a la izquierda o la derecha de la lista.
 
-Después, se agregan dos escuchadores de eventos a los botones de desplazamiento. Cuando se hace clic en uno de los botones, se utiliza la propiedad scrollLeft de la lista para desplazarse a la izquierda o a la derecha. La función InconVisibility también se llama para asegurarse de que los botones de desplazamiento estén visibles después de hacer clic en un botón.
+Después, se agregan dos escuchadores de eventos a los botones de desplazamiento. Cuando se hace clic en uno de los botones, se utiliza la propiedad *scrollLeft* de la lista para desplazarse a la izquierda o a la derecha. La función *InconVisibility* también se llama para asegurarse de que los botones de desplazamiento estén visibles después de hacer clic en un botón.
 
 Además, se agrega un escuchador de eventos a la ventana, que detecta cuando se carga la página y ajusta el estado visible de los botones de desplazamiento en consecuencia. También se agrega un escuchador de eventos que detecta cuando se cambia el tamaño de la ventana y ajusta el estado visible de los botones de desplazamiento en consecuencia.
 
-Finalmente, el código define una función para cambiar el contenido de la pestaña cuando se hace clic en uno de los botones de pestaña. La función agrega la clase "active" al botón de pestaña y a la pestaña correspondiente para mostrar el contenido de la pestaña seleccionada.
+Finalmente, el código define una función para cambiar el contenido de la pestaña cuando se hace clic en uno de los botones de pestaña. La función agrega la clase *"active"* al botón de pestaña y a la pestaña correspondiente para mostrar el contenido de la pestaña seleccionada.

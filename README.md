@@ -1,6 +1,8 @@
-# HTMLANDCSS
+# HTML AND CSS
+
 LEARN ABOUT HTML AND CSS
-# Explicando el Proyecto.
+
+## Explicando el Proyecto.
 
 *La vida cambia en un segundo, lo que hoy crees que es cierto mañana tal vez no lo sea. Todo depende de un punto de vista. No te aferres a nada. Perdona. Olvida. Empieza de nuevo cada vez que sea necesario. Cambia de camino si no te gusta el que recorres ahora. Y haz lo más importante que puedes hacer: vivir con pasión y entusiasmo el día de hoy.*
 

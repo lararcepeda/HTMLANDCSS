@@ -60,9 +60,12 @@ La propiedad especifica cómo un elemento es posicionado en el documento. Las pr
 - Un elemento posicionado absolutamente es un elemento cuyo valor de position es absolute o fixed. Las propiedades top, right, bottom, y left especifican el desplazamiento desde los bordes del bloque contenedor (en-US) del elemento. (El bloque contenedor es el ancestro relativo al cual el elemento está posicionado). Si el elemento tiene márgenes, se agregarán al desplazamiento. El elemento establece un nuevo contexto de formato de bloque para su contenido.
 - Un elemento posicionado fijamente es un elemento cuyo valor de position es sticky. Es tratado como un elemento posicionado relativamente hasta que su bloque contenedor (en-US) cruza un límite establecido (como por ejemplo dando a top cualquier valor distinto de auto), dentro de su flujo principal (o el contenedor dentro del cual se mueve), desde el cual es tratado como "fijo" hasta que alcance el borde opuesto de su bloque contenedor (en-US).
 
-        La mayoría de las veces, los elementos absolutamente posicionados que tienen su height y width establecidos en auto son ajustados hasta acomodarse a su contenido.
-        Sin embargo, elementos non-replaced y absolutamente posicionados se pueden crear para llenar el espacio vertical disponible, especificando tanto top como bottom,
-        y dejando height sin especificar (es decir, auto). De igual manera se pueden utilizar para llenar el espacio horizontal disponible especificando tanto left como
+        La mayoría de las veces, los elementos absolutamente posicionados que tienen su height y width establecidos
+        en auto son ajustados hasta acomodarse a su contenido.
+        Sin embargo, elementos non-replaced y absolutamente posicionados se pueden crear para llenar
+        el espacio vertical disponible, especificando tanto top como bottom,
+        y dejando height sin especificar (es decir, auto). De igual manera se pueden utilizar
+        para llenar el espacio horizontal disponible especificando tanto left como
         right, y dando a width el valor de auto.
 
 A excepción del caso anteriormente descrito (de elementos posicionados absolutamente rellenando el espacio disponible):

@@ -4,6 +4,8 @@ No se como hacer para que la fecha me aparezca cada parte en mayusculas en vez d
 
 Codigo para practicar hay un monton, pero este es el que mas he visto en cuestion de practica. Millones de videos, y ayuda hay para hacerlo por tu cuenta. Decidi copiar algunos estilos para aprender tambien a como hacerlo.
 
+![imagen](https://64.media.tumblr.com/10b002227496801554f7ed31540ec883/ed68d3585ff24a51-56/s400x600/aa43658fa0db5cd664ea86173b6070a9cc63633e.jpg)
+
 ## HTML y CSS
 
 En el HTML, que en los anteriores archivos no me centre en explicarlo, en este voy a intentar alargar un poco el archivo. 

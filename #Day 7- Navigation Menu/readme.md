@@ -2,6 +2,8 @@
 
 Tenemos un HTML con una lista ordenada para colocar el menu. Este proyecto es más de practica acentuando en el HTML y un CSS bastante rapido, que despues puede ser componente de una pagina más grande, y sirve como para ir aplicando cosas. 
 
+![imagen](https://64.media.tumblr.com/f6c7af30a7be720fddb66410f8a7ed8d/6fc4b20f68ffffc4-f0/s400x600/6c739bb7529efdc28db7a408b91de11392b52493.pnj)
+
 ## CSS
 
 ```css

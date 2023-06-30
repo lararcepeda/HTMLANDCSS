@@ -2,6 +2,8 @@
 
 Vamos directamente al CSS, lo voy a explicar medio rapido ya que en otras entradas tenes más especificado las cosas, y me quiero centrar en el javascript. 
 
+![imagen](https://64.media.tumblr.com/d6c855ae924bcb04d5c0c95979fd5d20/222255b60af912f4-f3/s400x600/471f181e5149600d90dd5115ba9a3d1a56e3cff6.jpg)
+
 ## Explicando el CSS
 
 ```css

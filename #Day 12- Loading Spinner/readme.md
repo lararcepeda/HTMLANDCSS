@@ -2,6 +2,8 @@
 
 Un HTML chico y sin clases, solamente apuntando a la caja, estoy intentando no usar tanto las clases y rebuscar para que sea lo más especifico posible.
 
+![imagen](https://i.pinimg.com/564x/00/63/12/00631205b37d66d7f9543095965d1f34.jpg)
+
 ```css
 div {
   position: relative;

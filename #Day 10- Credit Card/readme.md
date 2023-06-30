@@ -1,5 +1,7 @@
 # Explicando el Codigo.
 
+![imagen](https://i.pinimg.com/564x/00/c0/50/00c050a2e29a8956a5c15d3ed4a81c24.jpg)
+
 ```css
 .container {
   position: relative;

@@ -3,6 +3,8 @@
 En el HTML tenemos dos partes de codigo, tenes la parte en donde va a estar todas las estrellas y como van a ser. 
 En el otro espacio, vamos a colocar lo que vendria a ser el texto, esta separado en distintos compartenimientos ya que vendria a entender el tema de la animación, para que tenga su tiempo de espacio de uno al otro. 
 
+![imagen](https://64.media.tumblr.com/1934a4d14a4dc01f6d9a0dc57b63a918/e5fe81c4d7142fc0-d2/s400x600/b69ee229b2db62d097d23a6f2d96aef6b8909736.pnj)
+
 ## CSS
 
 ```CSS

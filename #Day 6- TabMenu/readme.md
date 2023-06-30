@@ -2,6 +2,8 @@
 
 En el HTML tenemos secciones que vienen a formar divs para separar cada seccion de la pagina, para colocar las imagenes, el nombre del lugar de la foto, Y el texto, que en este caso yo copie directamente lo que decia en Wikipedia, pero puede ser lo que ustedes vayan colocando. 
 
+![imagen](https://64.media.tumblr.com/159254671637b4d3fe32c521270376ee/0d8fcb98e63afd42-ea/s400x600/3f303322988ef9adcf1373d804d5a77cc3db7fee.jpg)
+
 ## HTML y CSS
 
 En el root guardamos información importante que vamos a reutilizar a lo largo del codigo, como los colares y el tema de la sombra. Colocamos la maximación de la pagina en si. Y despues el color de fondo del Body. Y de forma general le damos estilos a la seccion, como la posicion, el margen y la transicion posterior cuando el usuario pase de pais a pais. 

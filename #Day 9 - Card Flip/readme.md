@@ -2,6 +2,8 @@
 
 Codigo sin javascript para principiantes en CSS y HTML. Es más un trabajo interactivo. Y siempre hay que pensar en como las cosas se pueden usar en otros proyectos, y como hacer una pagina más grande de cada cosita. 
 
+![imagen](https://64.media.tumblr.com/ade6d61dc23416ad50bdea256a8b4d9d/da23f9d2e6984f63-a0/s400x600/e141ad80097565285beb18c45ae9a323d2dab210.jpg)
+
 # CSS
 
 ```css

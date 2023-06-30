@@ -3,6 +3,8 @@
 Hay un gif e imagenes con el mismo nombre en la carpeta para observar el final. 
 Pequeño codigo como para practicar y para entender ciertas cositas. 
 
+![imagen](https://64.media.tumblr.com/82ebf85fa130574be12f3c2160c3aef2/86989c81f3fdb3fb-ae/s1280x1920/50f4f04d5336eb3a1aa9d4b53e5a949a5add5a80.jpg)
+
 ## HTML y CSS
 
 Al principio tenemos el import donde esta las fuentes. Despues tenemos este pedacito de codigo que dice

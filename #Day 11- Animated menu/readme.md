@@ -1,5 +1,7 @@
 # Explicando el codigo.
 
+![imagen](https://i.pinimg.com/564x/67/f4/c3/67f4c394df2914e3f6275ebb3d450b79.jpg)
+
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 /*La letra*/

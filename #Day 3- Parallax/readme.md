@@ -2,6 +2,8 @@
 
 Es un codigo chico y basico, como para implementar más adelante en otros proyectos, ahi habria que implementar más codigo. 
 
+![imgen](https://64.media.tumblr.com/dc6da4834c4abfaaad052058da6a2daf/033232274e880242-74/s400x600/0adb5042dbb10dfaba17e5b680cda538fe1a2f44.jpg)
+
 ## HTML y CSS.
 
 Es un CSS chiquto entonces, me voy a explicar un poco más el ajavascript que en los otros archivos.

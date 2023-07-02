@@ -2,6 +2,8 @@
 
 Sigo con el modelo anterior. 
 
+![imagen](https://i.pinimg.com/564x/ab/38/16/ab38169c1898f51629619423543fb25d.jpg)
+
 ## Display 
 
 La propiedad CSS display especifica si un elemento es tratado como block or inline element y el diseño usado por sus hijos, como **flow layout (Diseño de Flujo)**, **grid (Cuadricula)** o **flex (Flexible)**.

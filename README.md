@@ -34,8 +34,8 @@ Day 10 - Credit Card | HTML/CSS
 Day 11 - Animated Menu | HTML/CSS
 Day 12 - Loading Spinner | HTML/CSS
 Day 13 - Profile Card | HTML/CSS
-Day 14 - |
-Day 15 - |
+Day 14 - Product Card | HTML/CSS
+Day 15 - Responsive Contact | HTML/CSS
 Day 16 - |
 Day 17 - |
 Day 18 - |

@@ -12,7 +12,7 @@ LEARN ABOUT HTML AND CSS
 
 ---------------------------------------
 
-La idea con el proyecto son 50 dias/50 proyectos de HTML y CSS, algunos con JavaScript. Más que nada es practica para mi y recordatorio a mi futuro yo. Muchos de los proyectos surgieron con otros y les fui cambiando algunas cosas, te invito a que hagas lo mismo, agarrar un proyecto y explotar lo que vos quieras. Algunos son muy vagos y otros son mejores. 
+La idea con el proyecto son 40 dias/40 proyectos de HTML y CSS, algunos con JavaScript. Más que nada es practica para mi y recordatorio a mi futuro yo. Muchos de los proyectos surgieron con otros y les fui cambiando algunas cosas, te invito a que hagas lo mismo, agarrar un proyecto y explotar lo que vos quieras. Algunos son muy vagos y otros son mejores. 
 En cada proyecto hay un redme que explica a detalle cada cosita que hice, más que para el otro lo hice por mi, porque hay que admitir que todo, uno, no se puede acordar, entonces son como mi blog de nota. Me gusto hacerlo, aprendi haciendolo y es algo pequeño de mi a la comunidad. 
 A medida que pase el tiempo me gustaria hacer esto con cada cosa que voy aprendiendo. 
 Asi que nada, mucho mate (si sos Argentino) o mucho café y vamos por ello. Les deseo lo mejor a todos. 
@@ -61,13 +61,3 @@ Day 37 - |
 Day 38 - |
 Day 39 - |
 Day 40 - |
-Day 41 - |
-Day 42 - |
-Day 43 - |
-Day 44 - |
-Day 45 - |
-Day 46 - |
-Day 47 - |
-Day 48 - |
-Day 49 - |
-Day 50 - |

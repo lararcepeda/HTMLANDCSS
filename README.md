@@ -36,10 +36,10 @@ Day 12 - Loading Spinner | HTML/CSS
 Day 13 - Profile Card | HTML/CSS
 Day 14 - Product Card | HTML/CSS
 Day 15 - Responsive Contact | HTML/CSS
-Day 16 - |
-Day 17 - |
-Day 18 - |
-Day 19 - |
+Day 16 - Glassmorphism Website | HTML/CSS
+Day 17 - Registration | HTML/CSS
+Day 18 - Day Night Toggle | HTML/CSS
+Day 19 - Our Team Section | HTML/CSS
 Day 20 - |
 Day 21 - |
 Day 22 - |

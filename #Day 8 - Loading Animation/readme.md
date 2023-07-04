@@ -92,3 +92,12 @@ Luego, se definen dos variables más: *perVal* que se inicializa en 0 y increame
 El intervalo se ejecutará hasta que perVal llegue a 100. En ese momento, se detiene el intervalo con clearInterval() y se elimina la clase *"active"* del elemento container.
 
 En resumen, este código muestra una animación de carga que aumenta el porcentaje de completado en el elemento percent hasta llegar al 100%, momento en que se detiene la animación y se elimina la clase *"active"* del elemento container.
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

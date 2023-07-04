@@ -155,3 +155,12 @@ Esta propiedad no tiene efecto en transformaciones 2D, pues estos no tienen pers
 ```
 
 No hay mucho más, solo repetición de la mismas. 
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

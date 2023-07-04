@@ -362,3 +362,11 @@ Cuando se hace clic en el botón dotmenuBtn, se agrega o se quita la clase activ
 Se agrega un evento click al documento que verifica si se hace clic en algún lugar que no sea el menú de puntos. Si se hace clic fuera del menú, se quita la clase active del menú de puntos.
 En resumen, este código implementa la funcionalidad de un reloj digital, incluyendo el cambio de formato de 12 a 24 horas, y un menú de puntos que se muestra y oculta al hacer clic en un botón.
 
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes mejorar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

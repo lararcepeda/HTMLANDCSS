@@ -102,3 +102,13 @@ Estos valores siempre crean un nuevo contexto de apilamiento. En documentos impr
 El elemento es posicionado de acuerdo al flujo normal del documento, y luego es desplazado con relación a su ancestro que se desplace más cercano y su bloque contenedor (en-US) (ancestro en nivel de bloque más cercano) incluyendo elementos relacionados a tablas, basados en los valores de top, right, bottom, y left. El desplazamiento no afecta la posición de ningún otro elmento.
 
 Estos valores siempre crean un nuevo contexto de apilamiento. Nótese que un elemento sticky se "adhiere" a su ancestro más cercano que tiene un "mecanismo de desplazamiento" (creado cuando el overflow es hidden, scroll, auto, o bien overlay), aún si ese ancestro no es el ancestro con desplazamiento más cercano. Esto inhibe efectivamente el comportamiento "sticky" (ver el Github issue en W3C CSSWG).
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 
+

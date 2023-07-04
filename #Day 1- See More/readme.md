@@ -250,3 +250,13 @@ cards.forEach((card) => {
 10. Después de cambiar las clases, se verifica si la tarjeta actual tiene la clase "active". Si la tiene, se cambia el texto del botón a "See Less" y se ajusta la altura del contenido de texto para mostrar todo el contenido (textContent.style.height = textContent.scrollHeight + "px").
 
 11. Si la tarjeta no tiene la clase "active", se cambia el texto del botón a "See More" y se establece la altura del contenido de texto en un valor específico, en este caso, "100px" (textContent.style.height = "100px").
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes mejorar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 
+ 

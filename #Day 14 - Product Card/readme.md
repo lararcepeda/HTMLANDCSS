@@ -57,3 +57,12 @@ En este codigo, en el html tenemos las siguientes etiquetas en el head.
 - Aca tenemos la conexion para los iconos y formatos. 
 - El viewport es una etiqueta meta de HTML5 que indica el tamaño de la ventana o área visible de una pantalla, generalmente, de dispositivos móviles como smartphones o tablets, por lo que juega un rol crucial en la optimización móvil.
 
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 
+

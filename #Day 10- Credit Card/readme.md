@@ -71,5 +71,13 @@ h5.name {
 Cuando hablamos de Justify-content: space-between nos referimos a los items flex se distribuyen uniformemente sobre la línea. El espaciamiento se hace de tal manera que el espacio adyacente entre dos items es el mismo. El borde del comienzo principal y el borde del final principal se alinean al ras con el borde del primer y último item respectivamente.
 Y cuando hablamos de flex-end alinea los elementos con el borde final del eje secundario. 
 
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 
 
 

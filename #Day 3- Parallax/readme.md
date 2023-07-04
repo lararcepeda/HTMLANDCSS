@@ -128,3 +128,12 @@ Despues especificaciones de cuando la pantalla se haga más chica, en que escala
 6. var y = (e.clientY * moving_value) / 250;: Calcula la posición vertical del elemento de manera similar a la línea anterior, pero utilizando e.clientY para la posición vertical del cursor.
 
 7. move.style.transform = "translateX(" + x + "px) translateY(" + y + "px)";: Aplica una transformación CSS al elemento actual utilizando la propiedad transform del estilo. La transformación se realiza mediante la función translateX y translateY, que mueve el elemento horizontalmente y verticalmente según los valores calculados en las variables x e y, respectivamente.
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes mejorar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

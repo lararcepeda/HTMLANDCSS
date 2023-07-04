@@ -48,3 +48,12 @@ Si quieres que un elemento esté en línea pero siga nuestros requerimientos de 
 Esta opción de propiedad display en cs, de los tipos de display css, oculta el elemento sin dejar espacio en el sitio que debería ocupar. Cuando agregues esta opción verás la página web sin ningún rastro del elemento. Esta opción permite crear estados en los que el elemento se oculte o se revele.
 
 Un ejemplo de display: flex, estaria en este codigo. 
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

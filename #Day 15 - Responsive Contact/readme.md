@@ -47,3 +47,12 @@ Las lists anidadas:
 Puede tener sentido anidarlos dentro de su propia lista no ordenada e introducir esa lista.
 
 Justo en este codigo no hay listas, pero en otros si. 
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

@@ -19,7 +19,7 @@ Asi que nada, mucho mate (si sos Argentino) o mucho café y vamos por ello. Les 
 
 ## Indice
 
-Proyecto  | Utilizadondo
+Proyecto  | Utilizando
 ------------- | -------------
 Day 1 - See More  | HTML/CSS/JAVASCRIPT
 Day 2 - Cursor Animation  | HTML/CSS/JAVASCRIPT

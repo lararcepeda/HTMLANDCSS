@@ -265,3 +265,12 @@ const cursoAnimation = document.querySelector(".curso");
 9. Se clona el elemento cursoAnimation utilizando el método cloneNode y se asigna a la variable cursoClone.
 10. Se agrega el elemento clonado cursoClone al final del elemento body del documento.
 11. Se utiliza setTimeout para programar la eliminación del elemento clonado cursoClone después de un segundo (1000 milisegundos).
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes mejorar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

@@ -111,4 +111,11 @@ offset-x offset-y blur-radius color
 ```
 Y despues los keyframes que abarcan el tiempo que tardan en pasar y cuando. 
 
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
 
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

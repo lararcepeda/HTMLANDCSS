@@ -331,3 +331,12 @@ Después, se agregan dos escuchadores de eventos a los botones de desplazamiento
 Además, se agrega un escuchador de eventos a la ventana, que detecta cuando se carga la página y ajusta el estado visible de los botones de desplazamiento en consecuencia. También se agrega un escuchador de eventos que detecta cuando se cambia el tamaño de la ventana y ajusta el estado visible de los botones de desplazamiento en consecuencia.
 
 Finalmente, el código define una función para cambiar el contenido de la pestaña cuando se hace clic en uno de los botones de pestaña. La función agrega la clase *"active"* al botón de pestaña y a la pestaña correspondiente para mostrar el contenido de la pestaña seleccionada.
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

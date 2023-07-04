@@ -100,3 +100,12 @@ input[type=radio]{
 ```
 
 #home:checked ~ nav label.home: Lo coloco a parte ya que es algo más especifico, utilizando el selector :checked y el selector de hermanos adyacentes (~): Selecciona todos los elementos hermanos adyacentes que siguen al elemento seleccionado en la jerarquía del DOM. 
+
+## Cosas que podes hacer con el codigo para seguir aprendiendo. 
+
+- Podes agregar el JavaScript.
+- Podes agrandar el diseño.
+- Podes jugar con la paleta de colores. 
+- Podes usar distintas partes en otro codigo.
+- Podes mejorarlo. 
+- Cambiar el diseño. 

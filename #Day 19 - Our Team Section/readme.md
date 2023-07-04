@@ -12,9 +12,9 @@ Recursos para aprender a programar con javascript de manera gratuita. (fuente: @
 
 ## Saltos de línea y líneas horizontales
 
-Dos elementos que debes conocer y utilizarás ocasionalmente son <br> y <hr>:
+Dos elementos que debes conocer y utilizarás ocasionalmente son < br > y < hr >:
 
-El elemento <br> genera un salto de línea en un párrafo; es la única manera de representar series de líneas cortas, como una dirección postal o un poema.
-Sin el elemento <br>, todo el párrafo se habría presentado como una sola línea larga (como ya hemos dicho con anterioridad en este curso, HTML ignora la mayoría del espacio en blanco); con estos elementos <br> en el código, las líneas quedan:
+El elemento < br > genera un salto de línea en un párrafo; es la única manera de representar series de líneas cortas, como una dirección postal o un poema.
+Sin el elemento < br >, todo el párrafo se habría presentado como una sola línea larga (como ya hemos dicho con anterioridad en este curso, HTML ignora la mayoría del espacio en blanco); con estos elementos < br > en el código, las líneas quedan:
 
 Este readme va a ser cortito.

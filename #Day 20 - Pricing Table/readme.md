@@ -28,4 +28,4 @@ La lista de mensajes de error que nos presenta el validador suele ayudar, pero a
 
 - "End of file seen and there were open elements": Este es un poco ambiguo, pero básicamente se refiere al hecho de que hay elementos abiertos que necesitan ser cerrados adecuadamente. Los números de línea apuntan a las últimas líneas del archivo, y este mensaje de error viene con una línea de código que indica un ejemplo de un elemento abierto.
 
-- Unclosed element ul: Este no ayuda mucho, porque el elemento <ul> está cerrado correctamente. Este error se debe a que el elemento <a> no ha sido cerrado, ya que faltan las comillas de cierre.
+- Unclosed element ul: Este no ayuda mucho, porque el elemento < ul > está cerrado correctamente. Este error se debe a que el elemento < a > no ha sido cerrado, ya que faltan las comillas de cierre.

@@ -43,11 +43,11 @@ Day 19 - Our Team Section | HTML/CSS
 Day 20 - Pricing Table | HTML/CSS
 Day 21 - Seasons | HTML/CSS/JAVASCRIPT
 Day 22 - Animated Product Card | HTML/CSS/JAVASCRIPT
-Day 23 - |
-Day 24 - |
-Day 25 - |
-Day 26 - |
-Day 27 - |
-Day 28 - |
-Day 29 - |
-Day 30 - |
+Day 23 - Analog Clock | HTML/CSS/JAVASCRIPT
+Day 24 - Awesome Widget | HTML/CSS/JAVASCRIPT
+Day 25 - Flipping Card | HTML/CSS
+Day 26 - Scroll Indicator Bar | HTML/CSS/JAVASCRIPT
+Day 27 - Reveal Website | HTML/CSS/JAVASCRIPT
+Day 28 - Landing Page Design | HTML/CSS/JAVASCRIPT
+Day 29 - Magnetic Buttons | HTML/CSS/JAVASCRIPT
+Day 30 - Responsive Calculator | HTML/CSS/JAVASCRIPT

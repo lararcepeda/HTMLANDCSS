@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Awesome Widget</title>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2.3/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
+		<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+	</head>
+	<body>
+
+		<!--Widget Start-->
+		<div class="card-body color1">
+			<div class="float-left">
+				<h3>
+					<span class="currency">$</span>
+					<span class="count">20000</span>
+				</h3>
+				<p>Revenue</p>
+			</div>
+			<div class="float-right">
+				<i class="pe-7s-cart"></i>
+			</div>
+		</div>
+		<!--Widget End-->
+		<!--Widget Start-->
+		<div class="card-body color2">
+			<div class="float-left">
+				<h3>
+					<span class="count">345</span>
+				</h3>
+				<p>Clients</p>
+			</div>
+			<div class="float-right">
+				<i class="pe-7s-users"></i>
+			</div>
+		</div>
+		<!--Widget End-->
+		<!--Widget Start-->
+		<div class="card-body color3">
+			<div class="float-left">
+				<h3>
+					<span class="count">4365</span>
+				</h3>
+				<p>Templates</p>
+			</div>
+			<div class="float-right">
+				<i class="pe-7s-browser"></i>
+			</div>
+		</div>
+		<!--Widget End-->
+
+		<script type="text/javascript">
+		$('.count').each(function(){
+			$(this).prop('Counter',0).animate({
+				Counter: $(this).text()
+			}, {
+				duration:4000,
+				easing:'swing',
+				step: function(now){
+					$(this).text(Math.ceil(now));
+				}
+			});
+		});
+		</script>
+
+	</body>
+</html>

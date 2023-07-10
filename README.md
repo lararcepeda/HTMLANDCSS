@@ -41,8 +41,8 @@ Day 17 - Registration | HTML/CSS
 Day 18 - Day Night Toggle | HTML/CSS
 Day 19 - Our Team Section | HTML/CSS
 Day 20 - Pricing Table | HTML/CSS
-Day 21 - |
-Day 22 - |
+Day 21 - Seasons | HTML/CSS/JAVASCRIPT
+Day 22 - Animated Product Card | HTML/CSS/JAVASCRIPT
 Day 23 - |
 Day 24 - |
 Day 25 - |

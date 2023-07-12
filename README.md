@@ -12,7 +12,9 @@ LEARN ABOUT HTML AND CSS
 
 English
 
-*Life changes in a second, what you think is true today may not be true tomorrow. It all depends on a point of view. Don't cling to anything. Sorry. Forget. Start over whenever necessary. Change paths if you don't like the one you're on now. And do the most important thing you can do: live with passion and enthusiasm on the day of*
+*Life changes in a second, what you think is true today may not be true tomorrow. It all depends on a point of view. Don't cling to anything. Sorry. Forget. Start over whenever necessary. Change paths if you don't like the one you're on now. And do the most important thing you can do: live with passion and enthusiasm on the day of.*
+
+
 ---------------------------------------
 
 This endeavour requires us thirty days to finish. The main tools we use are HTML and CSS. Though sporadic assignments involve JavaScript scripting, there is little it includes generally speaking.

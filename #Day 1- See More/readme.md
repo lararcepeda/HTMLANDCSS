@@ -2,7 +2,7 @@
 
 Proximamente la aplicacion va a esta en ingles. 
 
-En los archivos vas a encontrar un gif e imagenes, en mi pagina de Behence más información.
+En los archivos vas a encontrar un gif e imagenes.
 
 ![imagen](https://64.media.tumblr.com/a2e96a774b3405f936f903fdcc55ecc7/fbf932208ec0076a-0c/s540x810/57692e1d992b21d930fe38f86c4955ceb26bf0f4.jpg)
 
